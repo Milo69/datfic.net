@@ -9,3 +9,4 @@ layout : page
 * Romain Talou
 * Ghofran Akil
 * nicolas baldran
+* Remi Opalinski
